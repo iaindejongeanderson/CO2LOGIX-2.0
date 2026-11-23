@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use CO2LOGIX 2.0, please cite the software and the accompanying paper."
+title: "CO2LOGIX 2.0"
+type: software
+version: "2.0.1"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/iaindejongeanderson/CO2LOGIX-2.0"
+abstract: >-
+  A global model of how fast CO2 geological storage can be deployed. It couples
+  logistic industry growth, with drilling rates set by each country's storage
+  readiness, to pressure-constrained injection in 217 basins and storage units
+  across 71 countries. Version 2.0.1 accompanies the first revision of the paper.
+keywords:
+  - carbon capture and storage
+  - CO2 geological storage
+  - storage capacity
+  - pressure interference
+  - deployment rates
+authors:
+  - family-names: "de Jonge-Anderson"
+    given-names: "Iain"
+    affiliation: "University of Strathclyde"
+    orcid: "https://orcid.org/0000-0002-9438-8194"
+  - family-names: "Johnson"
+    given-names: "Gareth"
+    affiliation: "Drax Group"
+    orcid: "https://orcid.org/0000-0002-3151-5045"
+  - family-names: "Alcalde"
+    given-names: "Juan"
+    affiliation: "Geosciences Barcelona (GEO3BCN), CSIC"
+    orcid: "https://orcid.org/0000-0001-9806-5600"
+  - family-names: "Roberts"
+    given-names: "Jennifer J."
+    affiliation: "University of Strathclyde"
+    orcid: "https://orcid.org/0000-0003-4505-8524"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22047157"
+    description: "All versions on Zenodo (concept DOI)"
+preferred-citation:
+  type: article
+  title: "Global limits on CO2 geological storage deployment using a coupled industry growth - pressure constrained model"
+  authors:
+    - family-names: "de Jonge-Anderson"
+      given-names: "Iain"
+    - family-names: "Johnson"
+      given-names: "Gareth"
+    - family-names: "Alcalde"
+      given-names: "Juan"
+    - family-names: "Roberts"
+      given-names: "Jennifer J."
+  journal: "International Journal of Greenhouse Gas Control"
+  status: submitted
+  year: 2026
+references:
+  - type: article
+    title: "CO2LOGIX: A first-order model of pressure-constrained CO2 geological storage growth at the basin scale"
+    authors:
+      - family-names: "de Jonge-Anderson"
+        given-names: "Iain"
+      - family-names: "Johnson"
+        given-names: "Gareth"
+      - family-names: "Alcalde"
+        given-names: "Juan"
+      - family-names: "Roberts"
+        given-names: "Jennifer J."
+    journal: "International Journal of Greenhouse Gas Control"
+    volume: 151
+    start: 104608
+    year: 2026
+    doi: "10.1016/j.ijggc.2026.104608"

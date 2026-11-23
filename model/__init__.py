@@ -1,7 +1,1 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 29 13:42:54 2025
-
-@author: ngb24190
-"""
-
+"""CO2LOGIX 2.0 model: geology, growth (drilling schedule) and pressure modules."""
